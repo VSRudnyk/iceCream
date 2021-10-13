@@ -10,7 +10,9 @@ const modalFranchise = document.querySelector('.modal-franchise');
 const contactsMapsCloseBtn = document.getElementById('contactsMapsCloseBtn');
 const contactsFranchiseCloseBtn = document.getElementById('contactsFranchiseCloseBtn');
 
-
+const logoAnimated = document.querySelector('.logo');
+console.log(logoAnimated);
+logoAnimated.classList.add('logo-animated');
 
 // табы
 const changeClass = el => {
