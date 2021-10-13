@@ -69,6 +69,7 @@
     opacity: 1;
   }
 }
+
 @keyframes foodTrucksTablet {
   0% {
     top: -200px;
@@ -287,5 +288,62 @@
 
   @media screen and (min-width: 768px) {
     animation-delay: 3250ms;
+  }
+}
+
+// анимация логотипа
+.logo-animated {
+  animation-name: rotate;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-delay: 7s;
+}
+
+@keyframes rotate {
+  0% {
+      transform: perspective(150px) rotateY(0deg); 
+  }
+  10% {
+      transform: perspective(150px) rotateY(360deg); 
+  }
+  100% {
+      transform: perspective(150px) rotateY(360deg);
+  }
+}
+.animation-breeze-left {
+  animation-name: breeze-left;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-delay: 7s;
+}
+
+@keyframes breeze-left {
+  0% {
+    transform: scale(1); 
+}
+  50% {
+    transform: scale(1.2); 
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.animation-breeze-right {
+  animation-name: breeze-right;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-delay: 9.5s;
+  animation-timing-function: linear;
+}
+
+@keyframes breeze-right {
+  0% {
+    transform: scale(1); 
+}
+  50% {
+    transform: scale(1.2); 
+  }
+  100% {
+    transform: scale(1);
   }
 }
