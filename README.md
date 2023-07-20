@@ -11,7 +11,7 @@
   <br />
   <div align="center">
     <a href="https://github.com/VSRudnyk/iceCream">
-      <img src="src/images/logo.png" alt="Logo" width="200" height="200">
+      <img src="src/images/logo.png" alt="Logo" width="200">
     </a>
     <h3 align="center">Ice Cream</h3>
     <p align="center">
