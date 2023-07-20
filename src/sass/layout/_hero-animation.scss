@@ -186,7 +186,7 @@
   opacity: 0;
   animation: soTastyTablet 500ms forwards, shake 0.5s 10;
   animation-delay: 3s;
-  @media screen and(min-width: 1280px) {
+  @media screen and (min-width: 1280px) {
     animation: soTastyDesktop 500ms forwards, shake 0.5s 10;
     animation-delay: 3s;
   }
@@ -219,7 +219,7 @@
   opacity: 0;
   animation: bigEcoTablet 500ms forwards;
   animation-delay: 3250ms;
-  @media screen and(min-width: 1280px) {
+  @media screen and (min-width: 1280px) {
     animation: bigEcoDesktop 500ms forwards;
     animation-delay: 3250ms;
   }
