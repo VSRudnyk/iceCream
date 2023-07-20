@@ -11,7 +11,7 @@
   <br />
   <div align="center">
     <a href="https://github.com/VSRudnyk/iceCream">
-      <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
+      <img src="src/images/logo.png" alt="Logo" width="200" height="200">
     </a>
     <h3 align="center">Ice Cream</h3>
     <p align="center">
@@ -77,7 +77,6 @@ Are you craving something sweet and delightful? Look no further than Ice Cream, 
   
   ### Built With
 
-
 - ![HTML5](https://img.shields.io/badge/HTML5-e13403?style=for-the-badge&logo=html5&logoColor=ffffff&style=plastic)
 - ![SASS](https://img.shields.io/badge/SASS-e187b1?style=for-the-badge&logo=sass&logoColor=ffffff&style=plastic)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-e6d211?style=for-the-badge&logo=javascript&logoColor=ffffff&style=plastic)
@@ -85,11 +84,15 @@ Are you craving something sweet and delightful? Look no further than Ice Cream, 
 - ![Figma](https://img.shields.io/badge/Figma-474747?style=for-the-badge&logo=figma&logoColor=ffffff&style=plastic)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
-  
+
   ### Description
-  
-At Ice Cream Shop, we are passionate about crafting the finest, most delectable ice cream delights that will leave you wanting more. Our masterful chefs use only the freshest and highest quality ingredients to create a symphony of flavors that will tantalize your taste buds. Whether you're a fan of classic favorites or adventurous enough to try our unique creations, we have something to satisfy every ice cream lover.
-  
+
+At Ice Cream Shop, we are passionate about crafting the finest, most delectable ice cream delights
+that will leave you wanting more. Our masterful chefs use only the freshest and highest quality
+ingredients to create a symphony of flavors that will tantalize your taste buds. Whether you're a
+fan of classic favorites or adventurous enough to try our unique creations, we have something to
+satisfy every ice cream lover.
+
   <p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- GETTING STARTED -->
